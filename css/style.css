@@ -1,0 +1,13 @@
+body {
+    background: black;
+}
+
+h1 {
+    color: bisque;  
+    font-family: fantasy;
+}
+
+p {
+    color: burlywood;
+    font-family: sans-serif;
+}
