@@ -26,6 +26,6 @@ echo '<p>Tere!. $name Mina olen index.php</p><br>';
 echo  "<p>".$mass[1]."</p>";
 ?>
 </body>
-<img href="img/kass.jpg" alt="Tige kass">
+<img src="img/kass.jpg" alt="Tige kass">
     
 </html>
