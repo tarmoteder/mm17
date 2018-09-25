@@ -11,3 +11,7 @@ p {
     color: burlywood;
     font-family: sans-serif;
 }
+
+img {
+    border-radius: 50%;
+}
