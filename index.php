@@ -23,7 +23,7 @@ $mass = array (1,$name,"Tere",false, 1.12); // massiiv
 
 echo "<p>Tere!. $name Mina olen index.php</p>";
 echo '<p>Tere!. $name Mina olen index.php</p><br>';    
-echo  $mass[1];
+echo  "<p>".$mass[1]."</p>";
 ?>
 </body>
 
